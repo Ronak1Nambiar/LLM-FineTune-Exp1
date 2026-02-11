@@ -1,0 +1,9 @@
+unsloth
+transformers
+peft
+datasets
+trl
+accelerate
+torch
+pyyaml
+huggingface_hub

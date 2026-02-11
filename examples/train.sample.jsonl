@@ -1,0 +1,2 @@
+{"text":"### Instruction:\nSummarize this sentence in one line.\n\n### Input:\nLarge language models can be fine-tuned efficiently with LoRA adapters.\n\n### Response:\nLoRA enables efficient fine-tuning of large language models."}
+{"text":"### Instruction:\nConvert to bullet list.\n\n### Input:\nApples, bananas, oranges\n\n### Response:\n- Apples\n- Bananas\n- Oranges"}
